@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QUIPU2/static/css/main.ef8f1a6a.css",
+    "main.js": "/QUIPU2/static/js/main.2341439b.js",
+    "static/js/453.4487d271.chunk.js": "/QUIPU2/static/js/453.4487d271.chunk.js",
+    "index.html": "/QUIPU2/index.html",
+    "main.ef8f1a6a.css.map": "/QUIPU2/static/css/main.ef8f1a6a.css.map",
+    "main.2341439b.js.map": "/QUIPU2/static/js/main.2341439b.js.map",
+    "453.4487d271.chunk.js.map": "/QUIPU2/static/js/453.4487d271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8f1a6a.css",
+    "static/js/main.2341439b.js"
+  ]
+}
